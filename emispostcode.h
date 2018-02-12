@@ -33,7 +33,8 @@
 <negation>false</negation>\
 <filterAttribute>\
 <columnValue>\
-<id>%s</id>\<column>POSTCODE</column>\
+<id>%s</id>\
+<column>POSTCODE</column>\
 <displayName>Postcode</displayName>\
 <inNotIn>IN</inNotIn>\
 <singleValue>\
