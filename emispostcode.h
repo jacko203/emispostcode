@@ -38,7 +38,7 @@
 <inNotIn>IN</inNotIn>\
 <singleValue>\
 <variable>\
-<value>%s</value>\
+<value>%s*</value>\
 </variable>\
 </singleValue>\
 </columnValue>\
