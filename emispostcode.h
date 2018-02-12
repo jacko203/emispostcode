@@ -48,7 +48,7 @@
 </criteria>\
 </definition>\
 <actionIfTrue>REJECT</actionIfTrue>\
-actionIfFalse>NEXT</actionIfFalse>\
+<actionIfFalse>NEXT</actionIfFalse>\
 <id>%s</id>\
 </criteriaGroup>"
 
